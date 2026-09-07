@@ -34,7 +34,7 @@
 <img width="1280" height="1253" alt="image" src="https://github.com/user-attachments/assets/6f5687c3-e839-4833-8597-6ede0c5205d6" />
 
 ### Output:
-<img width="755" height="517" alt="image" src="https://github.com/user-attachments/assets/42412fc8-8a1e-4afc-9df7-81fbfa18931a" />
+<img width="1524" height="1032" alt="empd" src="https://github.com/user-attachments/assets/4d08a171-e181-41f1-91a5-d1ef2cf4d102" />
 <img width="1917" height="990" alt="image" src="https://github.com/user-attachments/assets/31f0ae4d-bde3-4e66-8cad-9bf6d8f8abb2" />
 
 

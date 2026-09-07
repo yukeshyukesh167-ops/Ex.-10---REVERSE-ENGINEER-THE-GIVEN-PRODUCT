@@ -38,8 +38,8 @@
 <img width="1917" height="990" alt="image" src="https://github.com/user-attachments/assets/31f0ae4d-bde3-4e66-8cad-9bf6d8f8abb2" />
 
 
-### Name: Nirmal.M
-### Register Number: 212225040282
+### Name: yukesh s
+### Register Number: 212225100062
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
